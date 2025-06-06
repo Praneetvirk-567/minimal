@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-
+Name: praneet kaur
+Student ID: 4406947
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
